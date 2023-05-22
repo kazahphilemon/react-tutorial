@@ -1,0 +1,37 @@
+[
+    {
+        "name": "toyota camery",
+        "price": "47,200",
+        "image": "./pexels-kamshotthat-7465819(1).jpg"
+    },
+
+    {
+        "name": "toyota SUV",
+        "price": "50,000",
+        "image": "./pexels-photo-13236249.jpeg"
+    },
+
+    {
+        "name": "toyota",
+        "price": "30,050",
+        "image": "./pexels-roger-arbisi-11034778.jpg" 
+    },
+
+    {
+        "name": "Mercedes Bens",
+        "price": "50,000",
+        "image": "./pexels-sebastian-pichard-10664458.jpg" 
+    },
+
+    {
+        "name": "Mercedes Bens",
+        "price": "20,000",
+        "image": "./pexels-tnarg-3.jpg" 
+    },
+
+    {
+        "name": "Mercedes",
+        "price": "50,000",
+        "image": "./red car.jpg" 
+    }
+]

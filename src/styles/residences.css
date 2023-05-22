@@ -1,0 +1,45 @@
+ .r-container{
+   text-align: center;
+   justify-content: center;
+
+ }
+ .r-head{ 
+    padding-bottom: 2rem;
+    margin-right: 400px;
+    margin-top: 30px;
+    font-weight: bolder;
+ }
+ .swipe{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   text-align: center;
+ }
+ 
+ 
+ .r-card>img{
+   width: 100%;
+   max-width: 15rem;
+   height: 200px;
+   object-fit: cover;
+   object-position: center;
+   border-radius: 5px;
+ }
+ .r-price{
+   margin-right: 180px;
+ }
+ .r-detail{
+   margin-right: 135px;
+ }
+
+ .swipe:hover{
+   scale: 1.025;
+   cursor: pointer;
+   background:linear-gradient(
+   180deg,
+   rgba(255, 255, 255, 0) 0%,
+   rgba(136,160,255,0.46) 217.84%
+   );
+   box-shadow: 0px,72px, 49px, -51px rgba(135,160,255,0.21);
+   
+ }
